@@ -30,5 +30,3 @@ function nilaibalik(){
 }
 
 echo nilaibalik();
-    
-echo "<hr>";
